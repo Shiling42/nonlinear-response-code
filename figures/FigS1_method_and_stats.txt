@@ -1,0 +1,9 @@
+# Fig. S1: method and statistics
+- Panel A: equality check x=1/phi_nm vs y=t_mn+t_nm^{edge}.
+- Panel B: inequality panel x=1/phi_nm vs y=t_mn+t_nm.
+- Colour: rho = t_nm / t_nm(edge m->n removed), in [0,1].
+
+N=4, kept=7000, trials=9708, skipped_unreachable=0
+equality residual min=-2.504e-11, median=0.000e+00, max_abs=2.933e-11
+ratio rho min/median/max=0.0000/0.1748/0.9972
+Pr(rho>0.95)=0.0414, Pr(rho>0.99)=0.0033

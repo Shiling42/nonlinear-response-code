@@ -1,0 +1,4 @@
+# Fig. S2: method and statistics
+- Verify: <t_kn> <= <t_mn> + <t_km>.
+- Color uses node-removal ratio on n->k MFPT: <t_kn>/<t_kn>^(remove m).
+N=6, kept=10000, trials=10000, skipped_unreachable=0, min_margin=2.702e-03, median_margin=5.588e-01, violations=0, rho_median=0.9832
